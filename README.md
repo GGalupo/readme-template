@@ -20,7 +20,7 @@ Tech stack...
 
 * Does your user have to configure some environment variables to run the project?
 
-#### Setting the environment variables
+### Setting the environment variables
 
 Before running the project, create a .env file at the root directory.
 
@@ -33,7 +33,7 @@ You can get `MY_ENV_VAR` from ...
 
 You can get `MY_ENV_VAR2` from ...
 
-#### Cloning the repository (Don't forget to change the values to match your repo!)
+### Cloning the repository (Don't forget to change the values to match your repo!)
 
 ```
 ## SSH
@@ -46,36 +46,38 @@ https://github.com/GGalupo/readme-template.git
 gh repo clone GGalupo/readme-template
 ```
 
-#### Installing the dependencies
+### Requirements
+
+- Which are the requirements to run the project?
+  
+Example:
+
+- Node.js v16.16.0+
+
+...
+
+### Installing the dependencies
 
 ```
 npm install
-## OR
-yarn
 ```
 
-#### Running (development)
+### Running (development)
 
 ```
 npm run dev
-## OR
-yarn dev
 ```
 
-#### Building
+### Building
 
 ```
 npm run build
-## OR
-yarn build
 ```
 
-#### Running (production)
+### Running (production)
 
 ```
 npm run dev
-## OR
-yarn dev
 ```
 
 Open http://localhost:3000 on your browser to see the project.
