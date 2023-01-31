@@ -33,7 +33,9 @@ You can get `MY_ENV_VAR` from ...
 
 You can get `MY_ENV_VAR2` from ...
 
-### Cloning the repository (Don't forget to change the values to match your repo!)
+### Cloning the repository
+
+**Don't forget to change the values to match your repo!**
 
 ```
 ## SSH
@@ -103,18 +105,34 @@ Coming next...
 
 ## 🤝🏻 How to contribute
 
-How to contribute...
-
-* How can people contribute to your project?
+* Is this an open source project which allow people to contribute with it?
   
-Example:
+- Fork the repository
+- On your GitHub account, clone the forked repository, like described on [running the project section](#cloning-the-repository)
+- Create a branch and work on your changes
 
+```
+ git checkout -b my-amazing-feature
+```
 
-...
+- Commit the changes you've worked on
+
+```
+git commit -m "feat: My changes"
+```
+
+- Push your changes to GitHub
+
+```
+git push origin my-amazing-feature
+```
+**`my-amazing-feature` must match the branch name you've created early on**
+
+- Go to the forked repo on GitHub and open a pull request
 
 ## 🙋‍♀️🙋‍♂️ Contributors
 
-* Who contributed to build this awesome project?
+* Have someone contributed to build this awesome project?
 
 <table>
   <tr>
