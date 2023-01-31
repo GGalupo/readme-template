@@ -77,14 +77,22 @@ npm run build
 ### Running (production)
 
 ```
-npm run dev
+npm run start
 ```
 
 Open http://localhost:3000 on your browser to see the project.
 
-## 🧪 Running the tests
+## 🧪 Tests
 
-To run the tests...
+* Does your project have test automation?
+
+This project has tests written using Jest and React Testing Library.
+
+### Running the tests
+
+```
+npm run test
+```
 
 
 ## 📅 Coming next
