@@ -108,7 +108,12 @@ npm run test
 
 * Which will be next implementations?
 
-Coming next...
+- [x] ~~Implement authentication~~
+- [x] ~~Create a dark theme~~
+- [x] ~~Follow ARIA rules on forms~~
+- [ ] Add loading skeletons
+- [ ] SEO optimizations
+- [ ] Add animations on home page
 
 ## 🤝🏻 How to contribute
 
