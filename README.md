@@ -14,7 +14,14 @@ Features...
 
 ## 🔧 Tech stack
 
-Tech stack...
+- ReactJS
+- Next.js
+- TypeScript
+- Next Auth
+- React Query
+- TailwindCSS
+- zod
+- React Hook Form
 
 ## 🚀 Running the project
 
