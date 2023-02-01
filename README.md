@@ -126,7 +126,7 @@ git commit -m "feat: My changes"
 ```
 git push origin my-amazing-feature
 ```
-**`my-amazing-feature` must match the branch name you've created early on**
+**`my-amazing-feature` have to match the branch name you've created early on**
 
 - Go to the forked repo on GitHub and open a pull request
 
@@ -149,4 +149,4 @@ git push origin my-amazing-feature
 
 ## 📝 License
 
-Project license.
+This project is under MIT license. See [LICENSE.md](/LICENSE.md) for more details.
