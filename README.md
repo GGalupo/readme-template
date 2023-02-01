@@ -1,5 +1,13 @@
 <h1 align="center" style="font-size:40px">--- PROJECT NAME ---</h2>
 
+<br />
+<p align="center">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/GGalupo/readme-template">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/GGalupo/readme-template">
+<img alt="GitHub" src="https://img.shields.io/github/license/GGalupo/readme-template">
+</p>
+
+
 ## 💻 Demo
 
 Demo...
