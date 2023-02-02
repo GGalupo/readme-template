@@ -13,11 +13,21 @@
 
 ## 💻 Demo
 
-Demo...
+- What about recording some GIFs and taking some photos of your cool project?
+
+<p align="center">
+  <img src="/.github/demo/anya-demo.jpg" width="800px" align="center" alt="Anya" />
+  
+  <br />
+  <br />
+  
+  <img src="/.github/demo/anya-demo-gif.gif" width="800px" align="center" alt="Anya" />
+</p>
+
 
 ## 🧾 Description
 
---- PROJECT NAME --- has been built to make developers lifes easier, by saving the time spent trying to write a good README for repositories.
+--- PROJECT NAME --- has been built to make developers lives easier, by saving the time spent trying to write a good README for repositories.
 
 **Focus on what matters the most: your code.**
 
