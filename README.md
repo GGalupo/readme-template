@@ -25,7 +25,6 @@
     - [Setting the environment variables](#setting-the-environment-variables)
     - [Requirements](#requirements)
     - [Installing the dependencies](#installing-the-dependencies)
-    - [Cloning the repository](#cloning-the-repository)
     - [Running (development)](#running-development)
     - [Building](#building)
     - [Running (production)](#running-production)
