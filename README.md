@@ -7,6 +7,8 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/GGalupo/readme-template">
 </p>
 
+> Exemplo deste template em [português brasileiro](./README_ptBR.md).
+
 
 ## 💻 Demo
 
