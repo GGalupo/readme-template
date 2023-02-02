@@ -22,10 +22,10 @@
  - [Rodando o projeto](#running-the-project)
     - [Clonando o repositório](#cloning-the-repository)
     - [Configurando as variáveis de ambiente](#setting-the-environment-variables)
-    - [Requisitos](#requirements)
+    - [Requisitos](#requisitos)
     - [Instalando as dependências](#installing-the-dependencies)
     - [Rodando (desenvolvimento)](#running-development)
-    - [Buildando do projeto](#building)
+    - [Buildando o projeto](#buildando-o-projeto)
     - [Rodando (produção)](#running-production)
  - [Testes](#tests)
  - [Próximas implementações](#coming-next)
@@ -51,30 +51,30 @@
 <br />
 
 <a name="description"></a>
-## 🧾 Description
+## 🧾 Descrição
 
----> PROJECT NAME <--- has been built to make developers lives easier, by saving the time spent trying to write a good README for repositories.
+---> NOME DO PROJETO <--- foi desenvolvido para facilitar a vida dos desenvolvedores, poupando o tempo gasto tentando escrever um bom README para seus repositórios.
 
-**Focus on what matters the most: your code.**
+**Foque no mais importante: seu código.**
 
 <br />
 
 <a name="features"></a>
-## 📖 Features
+## 📖 Funcionalidades
 
-With ---> PROJECT NAME <---, you can
+Com ---> NOME DO PROJETO <---, você pode
 
 
-- Schedule meetings
-- Find your friends
-- Enhance collaboration with your team
-- Play cool games
-- Crop images
+- Agendar reuniões
+- Encontrar seus amigos
+- Melhorar a colaboração com seu time
+- Jogar ótimos jogos
+- Recortar imagens
 
 <br />
 
 <a name="tech-stack"></a>
-## 🔧 Tech stack
+## 🔧 Stack utilizada
 
 - ReactJS
 - Next.js
@@ -88,11 +88,12 @@ With ---> PROJECT NAME <---, you can
 <br />
 
 <a name="running-the-project"></a>
-## 🚀 Running the project
+## 🚀 Rodando o projeto
 
-### Cloning the repository
+<a name="cloning-the-repository"></a>
+### Clonando o repositório
 
-**Don't forget to change the values to match your repo!**
+**Não esqueça de alterar os valores para referenciar seu repositório!**
 
 ```
 ## SSH
@@ -105,68 +106,70 @@ https://github.com/GGalupo/readme-template.git
 gh repo clone GGalupo/readme-template
 ```
 
-* Does your user have to configure some environment variables to run the project?
+* Alguma variável de ambiente precisa ser configurada para rodar seu projeto?
 
-### Setting the environment variables
+<a name="setting-the-environment-variables"></a>
+### Configurando as variáveis de ambiente
 
-Before running the project, create a .env file at the root directory.
+Antes de rodar o projeto, crie um arquivo .env no diretório raíz.
 
 ```
 MY_ENV_VAR=
 MY_ENV_VAR2=
 ```
 
-You can get `MY_ENV_VAR` from ...
+Você pode obter o valor de `MY_ENV_VAR` da seguinte forma ...
 
-You can get `MY_ENV_VAR2` from ...
+Você pode obter o valor de `MY_ENV_VAR2` da seguinte forma ...
 
 
-### Requirements
+### Requisitos
 
-- Which are the requirements to run the project?
+- Quais são os requisitos necessários para rodar seu projeto?
   
-Example:
+Exemplo:
 
 - Node.js v16.16.0+
 
 ...
 
-### Installing the dependencies
+<a name="installing-the-dependencies"></a>
+### Instalando as dependências
 
 ```
 npm install
 ```
 <a name="running-development"></a>
-### Running (development)
+### Rodando (desenvolvimento)
 
 ```
 npm run dev
 ```
 
-### Building
+### Buildando o projeto
 
 ```
 npm run build
 ```
 <a name="running-production"></a>
-### Running (production)
+### Rodando (produção)
 
 ```
 npm run start
 ```
 
-Open http://localhost:3000 on your browser to see the project.
+Acesse http://localhost:3000 no seu navegador para abrir o projeto.
 
 <br />
 
 <a name="tests"></a>
-## 🧪 Tests
+## 🧪 Testes
 
-* Does your project have test automation?
+* Seu projeto possui testes automatizados?
 
-This project has tests written using Jest and React Testing Library.
+Este projeto possui testes escritos com Jest e React Testing Library.
 
-### Running the tests
+### Rodando os testes
 
 ```
 npm run test
@@ -175,53 +178,53 @@ npm run test
 <br />
 
 <a name="coming-next"></a>
-## 📅 Coming next
+## 📅 Próximas implementações
 
-* Which will be next implementations?
+* Quais serão as próximas implementações?
 
-- [x] ~~Implement authentication~~
-- [x] ~~Create a dark theme~~
-- [x] ~~Follow ARIA rules on forms~~
-- [ ] Add loading skeletons
-- [ ] SEO optimizations
-- [ ] Add animations on home page
+- [x] ~~Implementar autenticação~~
+- [x] ~~Criar tema dark~~
+- [x] ~~Seguir as regras ARIA nos formulários~~
+- [ ] Adicionar skeletons durante o carregamento
+- [ ] Otimizações de SEO
+- [ ] Adicionar animações na home
 
 <br />
 
 <a name="how-to-contribute"></a>
-## 🤝🏻 How to contribute
+## 🤝🏻 Como contribuir
 
-* Is this an open source project which allow people to contribute with it?
+* Este é um projeto open source que permite contribuição de outras pessoas?
   
-- Fork the repository
-- On your GitHub account, clone the forked repository, like described on [running the project section](#cloning-the-repository)
-- Create a branch and work on your changes
+- Faça um fork do repositório
+- Na sua conta do GitHub, clone o repositório criado através do fork, como descrito na [seção rodando o projeto](#cloning-the-repository)
+- Crie uma branch e trabalhe em suas alterações
 
 ```
- git checkout -b my-amazing-feature
+ git checkout -b minha-incrivel-funcionalidade
 ```
 
-- Commit the changes you've worked on
+- Faça um commit com suas mudanças
 
 ```
-git commit -m "feat: My changes"
+git commit -m "feat: Minhas alterações"
 ```
 
-- Push your changes to GitHub
+- Faça um push das mudanças para o GitHub
 
 ```
-git push origin my-amazing-feature
+git push origin minha-incrivel-funcionalidade
 ```
-**`my-amazing-feature` have to match the branch name you've created early on**
+**`minha-incrivel-funcionalidade` deve ter o mesmo nome que a branch criada inicialmente**
 
-- Go to the forked repo on GitHub and open a pull request
+- Vá até o repositório no GitHub e abra um pull request
 
 <br />
 
 <a name="contributors"></a>
-## 🙋‍♀️🙋‍♂️ Contributors
+## 🙋‍♀️🙋‍♂️ Contribuidores
 
-* Have someone contributed to build this awesome project?
+* Alguém contribuiu na construção deste projeto?
 
 <table>
   <tr>
@@ -239,6 +242,6 @@ git push origin my-amazing-feature
 <br />
 
 <a name="license"></a>
-## 📝 License
+## 📝 Licença
 
-This project is under MIT license. See [LICENSE.md](/LICENSE.md) for more details.
+Este projeto está sob a licença MIT. Veja [LICENSE.md](/LICENSE.md) para mais informações.
