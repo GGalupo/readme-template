@@ -16,11 +16,13 @@ Demo...
 
 ## 🧾 Description
 
---- PROJECT NAME --- is a project about
+--- PROJECT NAME --- has been built to make developers lifes easier, by saving the time spent trying to write a good README for repositories.
+
+**Focus on what matters the most: your code.**
 
 ## 📖 Features
 
---- PROJECT NAME --- is a project which allows you to
+With --- PROJECT NAME ---, you can
 
 
 - Schedule meetings
