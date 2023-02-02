@@ -1,4 +1,8 @@
-<h1 align="center" style="font-size:40px">--- PROJECT NAME ---</h2>
+<p align="center">
+ <img src="/.github/logo.svg" width="200px" align="center" alt="README logo" />
+ <h1 align="center" style="font-size:40px">---> PROJECT NAME <---</h2>
+</p>
+
 
 <br />
 <p align="center">
@@ -51,7 +55,7 @@
 <a name="description"></a>
 ## 🧾 Description
 
---- PROJECT NAME --- has been built to make developers lives easier, by saving the time spent trying to write a good README for repositories.
+---> PROJECT NAME <--- has been built to make developers lives easier, by saving the time spent trying to write a good README for repositories.
 
 **Focus on what matters the most: your code.**
 
@@ -60,7 +64,7 @@
 <a name="features"></a>
 ## 📖 Features
 
-With --- PROJECT NAME ---, you can
+With ---> PROJECT NAME <---, you can
 
 
 - Schedule meetings
