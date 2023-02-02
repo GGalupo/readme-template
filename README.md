@@ -16,11 +16,18 @@ Demo...
 
 ## 🧾 Description
 
-Description...
+--- PROJECT NAME --- is a project about
 
 ## 📖 Features
 
-Features...
+--- PROJECT NAME --- is a project which allows you to
+
+
+- Schedule meetings
+- Find your friends
+- Enhance collaboration with your team
+- Play cool games
+- Crop images
 
 ## 🔧 Tech stack
 
