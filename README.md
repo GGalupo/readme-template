@@ -21,8 +21,8 @@
  - [Features](#features)
  - [Tech Stack](#tech-stack)
  - [Running the project](#running-the-project)
+    - [Cloning the repository](#cloning-the-repository)
     - [Setting the environment variables](#setting-the-environment-variables)
-    - [Cloning the repository](#setting-the-environment-variables)
     - [Requirements](#requirements)
     - [Installing the dependencies](#installing-the-dependencies)
     - [Cloning the repository](#cloning-the-repository)
@@ -92,6 +92,21 @@ With ---> PROJECT NAME <---, you can
 <a name="running-the-project"></a>
 ## 🚀 Running the project
 
+### Cloning the repository
+
+**Don't forget to change the values to match your repo!**
+
+```
+## SSH
+git@github.com:GGalupo/readme-template.git
+
+## HTTPS
+https://github.com/GGalupo/readme-template.git
+
+## GitHub CLI
+gh repo clone GGalupo/readme-template
+```
+
 * Does your user have to configure some environment variables to run the project?
 
 ### Setting the environment variables
@@ -107,20 +122,6 @@ You can get `MY_ENV_VAR` from ...
 
 You can get `MY_ENV_VAR2` from ...
 
-### Cloning the repository
-
-**Don't forget to change the values to match your repo!**
-
-```
-## SSH
-git@github.com:GGalupo/readme-template.git
-
-## HTTPS
-https://github.com/GGalupo/readme-template.git
-
-## GitHub CLI
-gh repo clone GGalupo/readme-template
-```
 
 ### Requirements
 
