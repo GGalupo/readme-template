@@ -15,7 +15,6 @@
 
 ## Tabela de conteúdos
 
-- [Tabela de conteúdos](#tabela-de-conteúdos)
 - [💻 Demonstração](#-demonstração)
 - [🧾 Descrição](#-descrição)
 - [📖 Funcionalidades](#-funcionalidades)
