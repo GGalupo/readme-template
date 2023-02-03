@@ -1,5 +1,5 @@
 <p align="center">
- <img src="/.github/logo.svg" width="200px" align="center" alt="README logo" />
+ <img src="/.github/logo.png" width="200px" align="center" alt="README logo" />
  <h1 align="center" style="font-size:40px">---> NOME DO PROJETO <---</h2>
 </p>
 
@@ -15,23 +15,25 @@
 
 ## Tabela de conteúdos
 
- - [Demonstração](#demo)
- - [Descrição](#description)
- - [Funcionalidades](#features)
- - [Stack utilizada](#tech-stack)
- - [Rodando o projeto](#running-the-project)
-    - [Clonando o repositório](#cloning-the-repository)
-    - [Configurando as variáveis de ambiente](#setting-the-environment-variables)
-    - [Requisitos](#requisitos)
-    - [Instalando as dependências](#installing-the-dependencies)
-    - [Rodando (desenvolvimento)](#running-development)
-    - [Buildando o projeto](#buildando-o-projeto)
-    - [Rodando (produção)](#running-production)
- - [Testes](#tests)
- - [Próximas implementações](#coming-next)
- - [Como contribuir](#how-to-contribute)
- - [Contribuidores](#contributors)
- - [Licença](#license)
+- [Tabela de conteúdos](#tabela-de-conteúdos)
+- [💻 Demonstração](#-demonstração)
+- [🧾 Descrição](#-descrição)
+- [📖 Funcionalidades](#-funcionalidades)
+- [🔧 Stack utilizada](#-stack-utilizada)
+- [🚀 Rodando o projeto](#-rodando-o-projeto)
+  - [Clonando o repositório](#clonando-o-repositório)
+  - [Configurando as variáveis de ambiente](#configurando-as-variáveis-de-ambiente)
+  - [Requisitos](#requisitos)
+  - [Instalando as dependências](#instalando-as-dependências)
+  - [Rodando (desenvolvimento)](#rodando-desenvolvimento)
+  - [Buildando o projeto](#buildando-o-projeto)
+  - [Rodando (produção)](#rodando-produção)
+- [🧪 Testes](#-testes)
+  - [Rodando os testes](#rodando-os-testes)
+- [📅 Próximas implementações](#-próximas-implementações)
+- [🤝🏻 Como contribuir](#-como-contribuir)
+- [🙋‍♀️🙋‍♂️ Contribuidores](#️️-contribuidores)
+- [📝 Licença](#-licença)
 
 
 <a name="demo"></a>
