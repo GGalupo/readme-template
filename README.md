@@ -1,5 +1,5 @@
 <p align="center">
- <img src="/.github/logo.svg" width="200px" align="center" alt="README logo" />
+ <img src="/.github/logo.png" width="200px" align="center" alt="README logo" />
  <h1 align="center" style="font-size:40px">---> PROJECT NAME <---</h2>
 </p>
 
@@ -16,23 +16,25 @@
 
 ## Table of contents
 
- - [Demo](#demo)
- - [Description](#description)
- - [Features](#features)
- - [Tech Stack](#tech-stack)
- - [Running the project](#running-the-project)
-    - [Cloning the repository](#cloning-the-repository)
-    - [Setting the environment variables](#setting-the-environment-variables)
-    - [Requirements](#requirements)
-    - [Installing the dependencies](#installing-the-dependencies)
-    - [Running (development)](#running-development)
-    - [Building](#building)
-    - [Running (production)](#running-production)
- - [Tests](#tests)
- - [Coming next](#coming-next)
- - [How to contribute](#how-to-contribute)
- - [Contributors](#contributors)
- - [License](#license)
+- [Table of contents](#table-of-contents)
+- [💻 Demo](#-demo)
+- [🧾 Description](#-description)
+- [📖 Features](#-features)
+- [🔧 Tech stack](#-tech-stack)
+- [🚀 Running the project](#-running-the-project)
+  - [Cloning the repository](#cloning-the-repository)
+  - [Setting the environment variables](#setting-the-environment-variables)
+  - [Requirements](#requirements)
+  - [Installing the dependencies](#installing-the-dependencies)
+  - [Running (development)](#running-development)
+  - [Building](#building)
+  - [Running (production)](#running-production)
+- [🧪 Tests](#-tests)
+  - [Running the tests](#running-the-tests)
+- [📅 Coming next](#-coming-next)
+- [🤝🏻 How to contribute](#-how-to-contribute)
+- [🙋‍♀️🙋‍♂️ Contributors](#️️-contributors)
+- [📝 License](#-license)
 
 
 <a name="demo"></a>
