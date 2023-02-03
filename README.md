@@ -106,7 +106,7 @@ https://github.com/GGalupo/readme-template.git
 gh repo clone GGalupo/readme-template
 ```
 
-* Does your user have to configure some environment variables to run the project?
+* Is some environment variable needed to run the project?
 
 ### Setting the environment variables
 
