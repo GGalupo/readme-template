@@ -1,5 +1,6 @@
 <p align="center">
  <img src="/.github/logo.png" width="200px" align="center" alt="README logo" />
+ <p align="center">(project logo)</p>
  <h1 align="center" style="font-size:40px">---> PROJECT NAME <---</h2>
 </p>
 
